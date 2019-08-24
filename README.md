@@ -5,7 +5,7 @@
     ./mysql -uroot -p
     password
 
-#MySQL을 사용하는 세 가지 방법
+# MySQL을 사용하는 세 가지 방법
 
 * terminal monitor (command)
 * MySQL Workbench (GUI)
