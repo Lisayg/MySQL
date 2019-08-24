@@ -1,6 +1,7 @@
 # terminal
 ~$ 홈이 아니라 /$ 루트 디렉토리 확인하기
 
+    ls
     cd /Applications/mampstack-7.3.8-0/mysql/bin/
     ./mysql -uroot -p
     password
@@ -10,3 +11,4 @@
 * terminal monitor (command)
 * MySQL Workbench (GUI)
 * PHP (Web application)
+
